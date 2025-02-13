@@ -1,0 +1,14 @@
+C:\Allfiles\Labs\05\Starter\bin\Debug\net8.0\ipcheck.exe
+C:\Allfiles\Labs\05\Starter\bin\Debug\net8.0\ipcheck.deps.json
+C:\Allfiles\Labs\05\Starter\bin\Debug\net8.0\ipcheck.runtimeconfig.json
+C:\Allfiles\Labs\05\Starter\bin\Debug\net8.0\ipcheck.dll
+C:\Allfiles\Labs\05\Starter\bin\Debug\net8.0\ipcheck.pdb
+C:\Allfiles\Labs\05\Starter\obj\Debug\net8.0\ipcheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Allfiles\Labs\05\Starter\obj\Debug\net8.0\ipcheck.AssemblyInfoInputs.cache
+C:\Allfiles\Labs\05\Starter\obj\Debug\net8.0\ipcheck.AssemblyInfo.cs
+C:\Allfiles\Labs\05\Starter\obj\Debug\net8.0\ipcheck.csproj.CoreCompileInputs.cache
+C:\Allfiles\Labs\05\Starter\obj\Debug\net8.0\ipcheck.dll
+C:\Allfiles\Labs\05\Starter\obj\Debug\net8.0\refint\ipcheck.dll
+C:\Allfiles\Labs\05\Starter\obj\Debug\net8.0\ipcheck.pdb
+C:\Allfiles\Labs\05\Starter\obj\Debug\net8.0\ipcheck.genruntimeconfig.cache
+C:\Allfiles\Labs\05\Starter\obj\Debug\net8.0\ref\ipcheck.dll
